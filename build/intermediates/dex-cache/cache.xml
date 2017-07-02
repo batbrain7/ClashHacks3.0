@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_74ed110994e933ddcf0deb6a06fa962bced3ac3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_fe6d6cfaf29b08d75e440da918940fc3c7226d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_65891bd7b28530064fad6a83c39ae50ba054f72b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_89e254096823d935426fbdd69bc8de713d8dcd57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_a3615f6c752e0545d37be1272302831508ba32f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_4fae88dc630714ff47eeebaa088d817ea590b49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.24.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.24.0_8760f5da18cbcba7ada129a45c3c40d9bddfa633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c65a5b42a00df4d8c603c7e83003d20a354f8659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/customtabs/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-25.3.1_c3b8ff7480690030323f613997fb50bbd4a2e621.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_4c7c563ceaca00adc3dcfd266d636eb7a41744fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_bc00b0d1cebf857f9237e85e9e9318e735bbcb8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e3254e144f7854e6707c3b0bce90e296ad37f45a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_d078b3ff0763d1eb70d62bf768e0bcf367b446e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.3.1_d1d2aefc887971dd5548efea223100a976ab1901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mohitkumar/Documents/AndroidStudioProjects/ClashHacks3.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_e4af2683fb540f69609cb133a7e8e9a28e78b78d.jar" />
+    </item>
+
+</items>
